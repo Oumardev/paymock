@@ -1,0 +1,40 @@
+{
+  "name": "paymock",
+  "version": "1.0.0",
+  "description": "Simulateur de paiements pour projets en développement (CinetPay, Stripe, etc.)",
+  "main": "",
+  "scripts": {
+    "test": "ialisez un serveur de simulation en une seule commande :"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oumardev/paymock.git"
+  },
+  "keywords": [
+    "payment",
+    "mock",
+    "simulator",
+    "fake-payment",
+    "payment-gateway",
+    "cinetpay",
+    "paydunya",
+    "stripe",
+    "touchpay",
+    "webhook",
+    "ipn",
+    "sandbox",
+    "testing",
+    "integration",
+    "api-mock",
+    "express",
+    "devtools",
+    "npx",
+    "developer-tools"
+  ],
+  "author": "oumardev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oumardev/paymock/issues"
+  },
+  "homepage": "https://github.com/Oumardev/paymock#readme"
+}
